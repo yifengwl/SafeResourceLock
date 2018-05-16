@@ -1,0 +1,2 @@
+# SafeResourceLock
+多线程情况下基于智能指针的安全资源管理
